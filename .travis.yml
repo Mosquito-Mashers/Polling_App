@@ -14,8 +14,8 @@ android:
     - android-19
 before_install:
  - chmod +x gradlew
-  - ./gradlew -v
-  - uname -a
+ - ./gradlew -v
+ - uname -a
 
 # Let's try to build...
 script: ./gradlew clean build
