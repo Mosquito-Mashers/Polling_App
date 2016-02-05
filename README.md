@@ -3,6 +3,8 @@
 
 Continuous integration status: ![Build status](https://travis-ci.org/Mosquito-Mashers/Polling_App.svg)
 
+[Build History](https://travis-ci.org/Mosquito-Mashers/Polling_App/builds)
+
 Items to be claimed in backlog: [![Stories in Ready](https://badge.waffle.io/Mosquito-Mashers/Polling_App.png?label=ready&title=Ready)](https://waffle.io/Mosquito-Mashers/Polling_App)
 
 [Issues](https://github.com/Mosquito-Mashers/Polling_App/issues) | [Milestones](https://github.com/Mosquito-Mashers/Polling_App/milestones) | [Metrics](https://github.com/Mosquito-Mashers/Polling_App/graphs/contributors)
