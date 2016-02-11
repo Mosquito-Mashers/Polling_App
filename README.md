@@ -25,9 +25,7 @@ What tools we use
 * Github
 * Waffle.io
 * Hipchat
-* GDrive
-* Google App engine / amazon aws
-* JUnit
+
 * Travis CI
 * Java
 
